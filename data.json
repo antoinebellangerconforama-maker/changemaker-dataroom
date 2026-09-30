@@ -1,0 +1,211 @@
+{
+  "meta": {
+    "title": "Data room",
+    "project": "Contraception partagée",
+    "team": "Groupe 13 · ChangeMaker Project 2026 · Rocket School",
+    "odd": "ODD 5.6 · Égalité entre les sexes",
+    "updated": "2026-09-30",
+    "driveFolder": "https://drive.google.com/drive/folders/1LXy-iUOTUsqV9W6S7W8Ch2ms5mQc1y-H",
+    "welcome": [
+      "Bienvenue dans la data room du Groupe 13.",
+      "Nous travaillons sur le partage de la charge contraceptive entre partenaires, chez les 18-29 ans.",
+      "Les documents sont classés par thème : chaque onglet regroupe les versions finales, datées, puis les documents de travail.",
+      "Les brouillons et les pistes abandonnées sont conservés dans l'onglet Archives.",
+      "La barre de recherche (touche /) permet de trouver n'importe quel document en quelques secondes."
+    ],
+    "overview": {
+      "oneLiner": "On aide les partenaires de 18-29 ans à se partager la charge contraceptive : des ateliers sur leur campus, une appli pour s'organiser à deux et une box pour ne plus y penser.",
+      "problem": "Comment favoriser un partage plus équitable des responsabilités contraceptives afin de réduire la charge portée par les femmes, tout en préservant leur autonomie de décision ?",
+      "solution": "Ateliers campus mixtes, appli de co-gestion entre partenaires et box « double protection ».",
+      "target": "Étudiantes et étudiants de 18 à 29 ans, en couple ou non."
+    },
+    "members": ["Antoine Bellanger", "Hassib Butt", "Sonia Daif", "Josselin Fabre", "Noura Jerad", "Quentin Nieva", "Sophia Rifai"],
+    "coaches": ["Alexandre (Change Conseil)", "Grégoire (Change Conseil)"]
+  },
+
+  "milestones": [
+    { "date": "2026-09-28", "label": "J1", "title": "ODD, marché & ICP" },
+    { "date": "2026-09-29", "label": "J2", "title": "PESTEL, arbre à problèmes, BMC v0" },
+    { "date": "2026-09-30", "label": "J3", "title": "Parcours client, CRM, charte éthique" },
+    { "date": "2026-10-01", "label": "J4", "title": "MVP & positionnement" },
+    { "date": "2026-10-02", "label": "J5", "title": "Roadmap & revue technique", "live": true },
+    { "date": "2026-10-23", "label": "Inter-session", "title": "Tests MVP & 20 entretiens" },
+    { "date": "2026-10-27", "label": "J7", "title": "Modèle économique & revue technique", "live": true },
+    { "date": "2026-10-28", "label": "J8", "title": "Risques RSE & écosystème" },
+    { "date": "2026-10-30", "label": "J10", "title": "Demo Day", "live": true }
+  ],
+
+  "people": {
+    "antoinebellanger.public@gmail.com": "Antoine B.",
+    "antoinebellanger.conforama@gmail.com": "Antoine B.",
+    "josselin.fabre@gmail.com": "Josselin F.",
+    "jeradnoura@gmail.com": "Noura J.",
+    "butthassib25@gmail.com": "Hassib B.",
+    "daifsonia963@gmail.com": "Sonia D.",
+    "nieva.pro@gmail.com": "Quentin N.",
+    "sophia.rifai@gmail.com": "Sophia R."
+  },
+
+  "tabs": [
+    {
+      "id": "impact",
+      "label": "Impact & problème",
+      "num": "01",
+      "intro": "Ancrage ODD, problème central, cause racine et hypothèses à tester.",
+      "sections": [
+        {
+          "title": "Arbre à problèmes",
+          "items": [
+            { "title": "Arbre à problèmes · contraception partagée", "kind": "pdf", "driveId": "1q8IuTXh0gFzcpHxU82dTN59vsJEGlKuU", "status": "final", "version": "V3", "date": "2026-09-30", "owner": "antoinebellanger.public@gmail.com", "note": "Problème central, causes, conséquences, cause racine et hypothèses H1 à H3." },
+            { "title": "Retour sur l'arbre à problèmes", "kind": "doc", "driveId": "1IGmLIjhMtK-beaOWYKJDNNHfaozZfogvLV8CoWpYIB4", "status": "working", "date": "2026-09-30", "owner": "antoinebellanger.public@gmail.com", "note": "Notes de travail et retours de l'équipe." }
+          ]
+        },
+        {
+          "title": "Ancrage ODD & hypothèses",
+          "items": [
+            { "title": "Ancrage ODD 5.6 (synthèse 1 min)", "status": "todo", "due": "2026-10-02", "note": "ODD principal justifié, 3 sources chiffrées, question de départ." },
+            { "title": "Tableau de suivi des hypothèses", "status": "todo", "due": "2026-10-23", "note": "Hypothèse / Comment tester / Statut / Preuve, mis à jour après entretiens." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "marche",
+      "label": "Marché & cibles",
+      "num": "02",
+      "intro": "Analyse externe, pain points, ICP et personas.",
+      "sections": [
+        {
+          "title": "Analyse de marché",
+          "items": [
+            { "title": "Fiche marché & pain points", "kind": "pptx", "driveId": "1O7-k6VQ1GW82rK9AGKzkIUOSisGxbYZh", "status": "final", "date": "2026-09-30", "owner": "antoinebellanger.public@gmail.com", "note": "Fiche marché niveau 1 et pain points de la cible." },
+            { "title": "PESTEL · contraception partagée", "kind": "pdf", "driveId": "1ufwLScE26nAG21DMYg7TMn7jfygeFoaQ", "status": "final", "version": "V2", "date": "2026-09-30", "owner": "antoinebellanger.public@gmail.com", "note": "6 dimensions, facteurs bloquants et verdict GO / PIVOT / NO GO." }
+          ]
+        },
+        {
+          "title": "Cibles",
+          "items": [
+            { "title": "ICP, personas & anti-persona", "kind": "pdf", "driveId": "1wXslKuZ2s8We2QWjW0kAHTh5OvJWlDBP", "status": "final", "version": "V4", "date": "2026-09-30", "owner": "antoinebellanger.public@gmail.com", "note": "ICP, 2 personas et anti-persona." },
+            { "title": "Retour sur l'ICP / personas", "kind": "doc", "driveId": "1BNcOx2Ji27Mel_jF8aMU6m1aPg0PfNGg1y1M0NkmA_8", "status": "working", "date": "2026-09-30", "owner": "antoinebellanger.public@gmail.com", "note": "Notes de travail." },
+            { "title": "Carte des parties prenantes", "status": "todo", "due": "2026-10-02" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "terrain",
+      "label": "Terrain & prospection",
+      "num": "03",
+      "intro": "Entretiens, CRM de suivi et apprentissages terrain.",
+      "sections": [
+        {
+          "title": "Entretiens & CRM",
+          "items": [
+            { "title": "CRM de prospection", "kind": "sheet", "driveId": "1Oq1RuDb7wcL8ShJFIWA4LYIT_Ay8PubOOeZnCdZIyZc", "status": "working", "date": "2026-09-30", "owner": "antoinebellanger.public@gmail.com", "note": "Suivi des entretiens terrain puis des prospects." },
+            { "title": "Guide d'entretien · contraception partagée", "status": "todo", "due": "2026-10-02" },
+            { "title": "Synthèse des 20 entretiens", "status": "todo", "due": "2026-10-23" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "offre",
+      "label": "Solution & offre",
+      "num": "04",
+      "intro": "Proposition de valeur, parcours client, MVP et positionnement.",
+      "sections": [
+        {
+          "title": "Proposition de valeur",
+          "items": [
+            { "title": "Idées de business · 3 briques", "kind": "doc", "driveId": "1RcRkdjorYskOb0zLyTM34a4d-yBqX6NZEfn3bLOJu0Q", "status": "working", "date": "2026-09-30", "owner": "antoinebellanger.public@gmail.com", "note": "Ateliers campus, appli de co-gestion, box double protection." },
+            { "title": "BMC v0 & offre impact by design", "status": "todo", "due": "2026-10-02" },
+            { "title": "Parcours client & acquisition", "status": "todo", "due": "2026-10-02" }
+          ]
+        },
+        {
+          "title": "MVP",
+          "items": [
+            { "title": "Landing page / maquette MVP", "status": "todo", "due": "2026-10-01", "note": "Page < 1,5 Mo, audit Website Carbon grade A ou B." },
+            { "title": "Différenciation & positionnement", "status": "todo", "due": "2026-10-01" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rse",
+      "label": "Engagements RSE",
+      "num": "05",
+      "intro": "Achats responsables, risques RSE et sobriété.",
+      "sections": [
+        {
+          "title": "Approvisionnement",
+          "items": [
+            { "title": "Charte d'approvisionnement éthique", "kind": "pdf", "driveId": "1reVNOZ3oQ22fWljzj4EFoy1BUstzktah", "status": "final", "version": "V3", "date": "2026-09-30", "owner": "antoinebellanger.public@gmail.com", "note": "Inventaire des intrants, critères, lignes rouges et arbitrages." }
+          ]
+        },
+        {
+          "title": "Risques & sobriété",
+          "items": [
+            { "title": "Matrice des risques RSE", "status": "todo", "due": "2026-10-28" },
+            { "title": "Audit sobriété numérique", "status": "todo", "due": "2026-10-01" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "modele",
+      "label": "Modèle économique",
+      "num": "06",
+      "intro": "Revenus, coûts, structure RH et écosystème.",
+      "sections": [
+        {
+          "title": "Business model",
+          "items": [
+            { "title": "Modèle économique", "status": "todo", "due": "2026-10-27" },
+            { "title": "Structure RH à 5 ans", "status": "todo", "due": "2026-10-28" },
+            { "title": "Écosystème & partenaires", "status": "todo", "due": "2026-10-28" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pitch",
+      "label": "Pitch & synthèse",
+      "num": "07",
+      "intro": "Executive summary, roadmap et supports du Demo Day.",
+      "sections": [
+        {
+          "title": "Livrables finaux",
+          "items": [
+            { "title": "Roadmap inter-session", "status": "todo", "due": "2026-10-02" },
+            { "title": "Executive summary", "status": "todo", "due": "2026-10-29" },
+            { "title": "Vidéo documentaire", "status": "todo", "due": "2026-10-29" },
+            { "title": "Pitch deck Demo Day", "status": "todo", "due": "2026-10-30" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "archives",
+      "label": "Archives",
+      "num": "A",
+      "archive": true,
+      "intro": "Brouillons et première piste (égalité professionnelle, index Egapro), conservés pour la traçabilité.",
+      "sections": [
+        {
+          "title": "Première piste · égalité professionnelle",
+          "items": [
+            { "title": "Impact ODD (brouillon)", "kind": "doc", "driveId": "17QTEHrloXKGac8mE6MaYCNNjPGbQ2lO6-HXu1ZjBX_s", "status": "archived", "date": "2026-09-29", "owner": "antoinebellanger.public@gmail.com" },
+            { "title": "Impact ODD · résumé", "kind": "pptx", "driveId": "1ERdSNdpsVIUU9ls5WiWhze4y-fcYmuEp", "status": "archived", "date": "2026-09-29", "owner": "josselin.fabre@gmail.com" },
+            { "title": "Ancrage ODD 5 & arbre à problèmes", "kind": "pdf", "driveId": "1jN_Z07URsGzxnSVSwNPY6tggwQlVrkJD", "status": "archived", "date": "2026-09-29", "owner": "josselin.fabre@gmail.com" },
+            { "title": "Fiche marché & pain point ODD 5", "kind": "pdf", "driveId": "1B7meYG0aYPWkJRF5Fm9lk-zlnwWNsp4A", "status": "archived", "date": "2026-09-29", "owner": "josselin.fabre@gmail.com" },
+            { "title": "Marché & cibles", "kind": "doc", "driveId": "1SYz0f6L2uN5h7rb4JAE32ILspvlw41v73QhYy94dgWU", "status": "archived", "date": "2026-09-29", "owner": "josselin.fabre@gmail.com" },
+            { "title": "Guide d'entretien n°1", "kind": "doc", "driveId": "1pQNt-Eq9w8z0_ZugxybuOi-vENfcgHmWgvQ2V60KG_s", "status": "archived", "date": "2026-09-29", "owner": "josselin.fabre@gmail.com" },
+            { "title": "Scrapping interview", "kind": "sheet", "driveId": "1g5voWhGuFpIfnRLWYoI3me97sSRGFna5z5KtyRtn-nc", "status": "archived", "date": "2026-09-30", "owner": "jeradnoura@gmail.com" },
+            { "title": "Index Egapro · données publiques", "kind": "csv", "driveId": "1YOziZx1hZMD4617lH0pFnkP623hd7Mh2", "status": "archived", "date": "2026-09-29", "owner": "josselin.fabre@gmail.com", "note": "Fichier lourd (38 Mo), à télécharger." }
+          ]
+        }
+      ]
+    }
+  ]
+}
